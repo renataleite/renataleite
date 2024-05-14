@@ -3,7 +3,9 @@
 [![Blog](https://img.shields.io/website?label=renatadev.com&style=for-the-badge&url=https://sujeitoprogramador.com)](renatadev.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/renata-guedes-dev)
 
-![Renata GitHub stats](https://github-readme-stats.vercel.app/api?username=renataleite&show_icons=true&theme=radical)
+![Renata GitHub stats](https://github-readme-stats.vercel.app/api?username=renataleite&show_icons=true&theme=radical&hide_rank=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renataleite&hide_progress=true)
 
 ## Technologies that I usually use in my days
 
