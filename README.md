@@ -1,6 +1,6 @@
 ### Hello! I'm Renata Guedes 🖐️
 
-[![Blog](https://img.shields.io/website?label=renatadev.com&style=for-the-badge&url=https://sujeitoprogramador.com)](renatadev.com)
+[![Blog](https://img.shields.io/website?label=renatadev.com&style=for-the-badge&url=https://inkedin.com/in/renata-guedes-dev)](renatadev.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/renata-guedes-dev)
 
 ![Renata GitHub stats](https://github-readme-stats.vercel.app/api?username=renataleite&show_icons=true&theme=radical&hide_rank=true)
