@@ -5,8 +5,6 @@ I am a Full Stack developer with 3 years of experience, specializing in .Net and
 [![Blog](https://img.shields.io/website?label=renatadev.vercel.app&style=for-the-badge&url=https://renatadev.vercel.app/)](https://renatadev.vercel.app/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/renata-guedes-dev)
 
-![Renata GitHub stats](https://github-readme-stats.vercel.app/api?username=renataleite&show_icons=true&theme=radical&hide_rank=true)
-
 ## Technologies that I usually use in my days
 
 <div style="display: inline_block">
