@@ -1,6 +1,6 @@
 ### Hello! I'm Renata Guedes 🖐️
 
-I am a Full Stack developer with 3 years of experience, specializing in .Net and React technologies. Throughout my career, I have had the opportunity to work on various projects, including mobile app development with React Native, as well as working with Angular and Nodejs. My main focus is to develop scalable and high-quality solutions to meet client needs. I am passionate about technology and always seek to learn more to keep myself updated with market trends.
+I am a Full Stack developer with three years of experience, focusing on C#, .NET, AWS, and React. Throughout my career, I have worked on a variety of projects, aiming to develop scalable and high-quality solutions to meet client needs. I am passionate about technology and am constantly seeking new learning opportunities to stay updated with market trends.
 
 [![Blog](https://img.shields.io/website?label=renatadev.vercel.app&style=for-the-badge&url=https://renatadev.vercel.app/)](https://renatadev.vercel.app/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/renata-guedes-dev)
